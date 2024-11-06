@@ -30,7 +30,7 @@ The project is organized as follows:
 
 <pre>
 ElementaryCellularAutomaton/
-├── src/                                    # Main source code for the automaton
+├── src/                                    # Folder with source codes
 │   ├── __main__.ipynb                      # Main script to run the cellular automaton
 │   └── elementary_cellular_automaton.py    # Implementation of cellular automaton
 ├── .gitignore                              # Git ignore file

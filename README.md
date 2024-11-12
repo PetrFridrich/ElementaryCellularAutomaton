@@ -1,6 +1,7 @@
 # Elementary Cellular Automaton
 
-This project is a Python implementation of an Elementary Cellular Automaton. It simulates the behavior of cellular automata following the rules defined by [elementary cellular automaton theory](https://en.wikipedia.org/wiki/Elementary_cellular_automaton).
+This project is a Python implementation of an Elementary Cellular Automaton. It simulates the behavior of cellular automata 
+following the rules defined by [elementary cellular automaton theory](https://en.wikipedia.org/wiki/Elementary_cellular_automaton).
 
 ## Features
 
@@ -9,6 +10,8 @@ This project is a Python implementation of an Elementary Cellular Automaton. It 
 - Customizable rule sets for experimentation.
 
 ## Installation
+
+**Prerequisite:** Ensure [Poetry](https://python-poetry.org/docs/#installation) is installed on your system.
 
 1. Clone the repository:
    ```bash

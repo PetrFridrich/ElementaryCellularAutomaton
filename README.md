@@ -38,8 +38,8 @@ ElementaryCellularAutomaton/
 │   └── elementary_cellular_automaton.py    # Implementation of cellular automaton
 ├── .gitignore                              # Git ignore file
 ├── pyproject.toml                          # Poetry project configuration and dependencies
-├── poetry.lock              # Poetry lock file to ensure consistent dependencies
-├── LICENSE                  # License file for the project
+├── poetry.lock                             # Poetry lock file to ensure consistent dependencies
+├── LICENSE                                 # License file for the project
 └── README.md                               # This README file
 </pre>
 

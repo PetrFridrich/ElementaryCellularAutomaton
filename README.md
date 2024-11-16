@@ -34,8 +34,8 @@ The project is organized as follows:
 <pre>
 ElementaryCellularAutomaton/
 ├── src/                                    # Folder with source codes
-│   ├── __main__.ipynb                      # Main script to run the cellular automaton
-│   └── elementary_cellular_automaton.py    # Implementation of cellular automaton
+│   ├── __main__.ipynb                          # Main script to run the cellular automaton
+│   └── elementary_cellular_automaton.py        # Implementation of cellular automaton
 ├── .gitignore                              # Git ignore file
 ├── pyproject.toml                          # Poetry project configuration and dependencies
 ├── poetry.lock                             # Poetry lock file to ensure consistent dependencies
